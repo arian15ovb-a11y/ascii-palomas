@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+_gif_frames/
+frames/
+probe_*.png
+dbg_*.png
