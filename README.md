@@ -1,3 +1,5 @@
+![palomas](palomas.gif)
+
 # palomas
 
 Dos palomas — **corzo** y **miranda** — cruzando un cielo de atardecer, dibujadas
